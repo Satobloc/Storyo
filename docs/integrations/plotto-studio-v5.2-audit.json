@@ -1,0 +1,41 @@
+{
+  "source_name": "Plotto Studio",
+  "source_version": "v5.2",
+  "source_filename": "plotto-studio-life-draw-v5-2.html",
+  "source_html_sha256": "b6b4d38ccc75d1f612eb25a807e8f485ea6fd2c1d6553aa191cd4c8df1d85634",
+  "source_text_committed": false,
+  "counts": {
+    "conflict_entries": 1462,
+    "variants": 1853,
+    "master_clauses": {"A": 15, "B": 62, "C": 15, "total": 92},
+    "references": 11068,
+    "directions": {"leadup": 5311, "carryon": 4609, "uncertain": 1148},
+    "statuses": {
+      "interpreted": 10302,
+      "partial": 742,
+      "unresolved_target_variant": 23,
+      "corrected_with_secondary_source": 1
+    },
+    "transformations": {"change": 1712, "transpose": 246},
+    "multi_target_source_notation_groups": 478,
+    "distinct_unresolved_target_variant_pointers": 20
+  },
+  "imported_graph": {
+    "nodes": 3427,
+    "node_types": {
+      "conflict": 1462,
+      "variant": 1853,
+      "master-clause": 92,
+      "unresolved-target": 20
+    },
+    "references": 11068,
+    "groups": 478,
+    "group_mode": "uncertain"
+  },
+  "semantic_guards": [
+    "No causal promotion",
+    "No automatic transformation execution",
+    "No inferred choose/include/sequence group operators",
+    "No source corpus text exported"
+  ]
+}

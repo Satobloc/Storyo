@@ -1,0 +1,8 @@
+{
+  "schema_version": "0.1.0",
+  "provenance_note": "Machine-readable formalization of the two author-supplied source documents. Labels and source assertions are not promoted into universal laws.",
+  "template_files": [
+    "bio-tragic-loop.v0.1.json",
+    "vignette-expansion.v0.1.json"
+  ]
+}
