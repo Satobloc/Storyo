@@ -1,0 +1,17 @@
+{
+  "grammar": {"id":"plotto-studio.v5.2","source":"Plotto Studio","source_version":"v5.2"},
+  "counts": {
+    "nodes":3427,
+    "node_types":{"conflict":1462,"master-clause":92,"unresolved-target":20,"variant":1853},
+    "references":11068,
+    "reference_directions":{"carryon":4609,"leadup":5311,"uncertain":1148},
+    "reference_statuses":{"corrected_with_secondary_source":1,"interpreted":10302,"partial":742,"unresolved_target_variant":23},
+    "transformations":{"change":1712,"transpose":246},
+    "groups":478,
+    "group_modes":{"uncertain":478},
+    "reference_endpoint_node_types":{"variant->conflict":7797,"variant->unresolved-target":23,"variant->variant":3248},
+    "self_loops":1
+  },
+  "connectivity":{"weak_component_count":332,"largest_weak_component_nodes":3096,"isolated_node_count":331},
+  "interpretation_guard":"Reference-network topology only. No causal or world-dependency meaning is inferred."
+}

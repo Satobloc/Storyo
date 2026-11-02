@@ -1,0 +1,102 @@
+Vignette expansion
+⸻
+
+🧭 Step-by-Step Action Plan
+
+1. Identify the Vignette Core
+	•	Goal: Pinpoint the emotional or conceptual nucleus of the vignette.
+	•	Actions:
+	•	Summarize the vignette in one sentence: “This is a moment where ___ realizes/feels/confronts ___.”
+	•	Identify what emotional energy or thematic tension drives it (e.g. longing, loss, curiosity, defiance).
+	•	Decide what aspect of the world or self this vignette exposes.
+
+✅ Output: 1–2 sentences defining the vignette’s core premise and emotional axis.
+
+⸻
+
+2. Situate It Within the Modular Spine
+
+Your modular structure is built from interlocking segments (modules) that together form a dynamic system — not a linear story but a network.
+
+Each module has a function:
+	•	Origin / Catalyst – the initial condition or rupture
+	•	Echo / Reflection – thematic mirroring or emotional consequence
+	•	Expansion / Divergence – alternative or contrasting pathway
+	•	Convergence / Collapse – synthesis or dissolution of multiple threads
+	•	Residual / Afterimage – lingering resonance or transformation
+	•	Actions:
+	•	Decide which module your vignette belongs to (or could become).
+	•	Identify 1–2 other modules it could connect to through theme, motif, or character continuity.
+
+✅ Output: A labeled position for your vignette (e.g. “Expansion module, linked to Origin via emotional inversion”).
+
+⸻
+
+3. Define the Modular Links
+	•	Goal: Create the connective tissue that allows the vignette to interlock with others.
+	•	Actions:
+	•	For each chosen link, write a short bridge note:
+	•	What concept, object, or emotional echo connects them?
+	•	How might tone or imagery recur or invert?
+	•	Mark whether each link is direct (narrative) or resonant (thematic/metaphoric).
+
+✅ Output: A small diagram or list of 2–4 link notes (e.g. “shared symbol: water,” “reversed tone: warmth → chill”).
+
+⸻
+
+4. Expand the Internal Architecture
+	•	Goal: Evolve the vignette from a single event into a multi-phase module with internal rhythm.
+	•	Actions:
+	•	Break the vignette into three micro-stages:
+	1.	Initiation: The moment begins or the threshold is crossed.
+	2.	Distortion: The premise destabilizes; perception or tone shifts.
+	3.	Reverberation: A change in understanding or mood settles.
+	•	Layer sensory or conceptual motifs across these micro-stages for cohesion.
+
+✅ Output: 3 short paragraph sketches or beat outlines.
+
+⸻
+
+5. Integrate the Meta-Layer
+	•	Goal: Give the module participation in the story’s systemic logic (its modular engine).
+	•	Actions:
+	•	Identify what principle this vignette expresses (e.g. entropy, recursion, emergence, memory).
+	•	Draft one or two system-level statements about how this principle plays out across modules.
+	•	“When X happens here, it triggers Y in the reflection module.”
+	•	“This module decays, producing fragments that appear in the convergence sequence.”
+
+✅ Output: A few sentences defining its role in the modular ecology.
+
+⸻
+
+6. Expand Outward (Iteration)
+	•	Goal: Turn the vignette’s core into a generative seed for other modules.
+	•	Actions:
+	•	Extract 1–3 elements (object, phrase, emotional pivot) that can recur in other modules.
+	•	Write alternate interpretations or versions of the vignette (different perspective, medium, time, or emotional tone).
+	•	Place each variation in another module slot to form crosslinks.
+
+✅ Output: Draft notes for 2–3 derived fragments or echoes.
+
+⸻
+
+7. Assemble and Calibrate
+	•	Goal: Integrate your expanded vignette into the larger network.
+	•	Actions:
+	•	Place it in sequence or lattice according to thematic resonance, not chronology.
+	•	Test its flow: does the modular rhythm feel balanced (initiation → reflection → divergence → convergence → afterimage)?
+	•	Adjust tone and density to maintain equilibrium across modules.
+
+✅ Output: A working version of the vignette as a complete modular node, ready to link into the full structure.
+
+⸻
+
+8. Optional: Meta Weaving Layer
+
+If your modular story uses recursion or reader agency, define:
+	•	How this vignette could reactivate earlier nodes (callbacks, inversions, loops).
+	•	How its meaning changes depending on reading order or context.
+
+⸻
+
+Would you like me to turn this into a template worksheet (e.g., Markdown or fillable PDF) so you can systematically expand any vignette following this plan?

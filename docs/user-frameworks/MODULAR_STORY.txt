@@ -1,0 +1,140 @@
+MODULAR STORY
+
+STORY SKELETON: "BIO-TRAGIC LOOP" MODEL
+(Repurposeable narrative framework with integrated dependencies)
+
+==========================================
+I. FOUNDATION LAYER: CONTEXT & POLARITIES
+==========================================
+
+1. DOMAIN OF STABILITY
+   - A world or institution with internal moral logic (e.g., traditional, ritualized, or natural order).
+   - Protagonist embedded here, fluent but restless.
+   - Local tension already present between preservation and progress.
+
+2. INVADING ELEMENT
+   - A newcomer, discovery, or technology that challenges the existing equilibrium.
+   - Ambiguous intent: may appear redemptive, seductive, or merely efficient.
+   - Protagonist’s first reaction: curiosity mixed with resistance.
+
+→ INTERDEPENDENCY: Domain defines what counts as “natural.” Invader defines what counts as “possible.”  
+Their collision generates the narrative’s thematic charge.
+
+---
+
+==========================================
+II. INCUBATION LAYER: DESIRE & TRANSGRESSION
+==========================================
+
+1. ATTRACTION PHASE
+   - Protagonist finds in the Invader a solution to an unacknowledged void.
+   - Emotional or intellectual intimacy builds around shared technical or moral language.
+   - Early sign that boundaries (professional / ethical / emotional) are dissolving.
+
+2. CONFESSION PHASE
+   - Hidden trauma, guilt, or unfinished past emerges.
+   - Invader offers reinterpretation of that wound through their own paradigm.
+   - Mutual reinforcement: each enables the other’s self-deception.
+
+→ INTERDEPENDENCY: The wound creates the vulnerability that the Invader exploits.
+   The Invader’s ideology offers the false cure that perpetuates the wound.
+
+---
+
+==========================================
+III. TRANSFORMATION LAYER: INVERSION POINT
+==========================================
+
+1. CROSSING THE THRESHOLD
+   - Protagonist abandons prior loyalties (family, ethics, craft, etc.) for the Invader’s world.
+   - Immersion in new system or ideology (training, initiation, demonstration).
+
+2. REVELATORY SCENE
+   - The Invader’s true ambition, method, or creation is unveiled.
+   - The revelation fuses the personal with the systemic: love and ideology become one organism.
+   - Awe and revulsion coexist.
+
+→ INTERDEPENDENCY: Revelation must simultaneously fulfill and invalidate the protagonist’s desire.
+   What was sought (healing, meaning, progress) is achieved in grotesque or inverted form.
+
+---
+
+==========================================
+IV. COLLAPSE LAYER: RECOGNITION & MIRRORING
+==========================================
+
+1. RETURN OF THE PAST
+   - A figure, creation, or consequence re-enters to expose the underlying pattern.
+   - This element mirrors the protagonist or Invader in corrupted form.
+
+2. MORAL ENTROPY
+   - Systems (social, emotional, material) begin to break down.
+   - Attempts at restitution only propagate the contagion.
+
+→ INTERDEPENDENCY: The mirror figure externalizes the protagonist’s flaw.
+   Its existence proves the inevitability of repetition.
+
+---
+
+==========================================
+V. SYNTHESIS LAYER: ABSORPTION & RECODING
+==========================================
+
+1. RESOLUTION BY ABSORPTION
+   - Institutions or systems integrate the outcome as policy, industry, or norm.
+   - The personal tragedy becomes infrastructure.
+
+2. FRAME OR CODA
+   - Protagonist (or witness) recounts events from a context where the horror has been normalized.
+   - Irony: what once seemed aberrant is now résumé material, curriculum, or doctrine.
+
+→ INTERDEPENDENCY: The ending re-establishes stability,
+   but on the Invader’s terms — showing systemic digestion of individual conscience.
+
+---
+
+==========================================
+VI. CIRCULAR LOGIC & REUSE NOTES
+==========================================
+
+- **Thematic Engine:** Collision of *ethics vs. innovation* or *nature vs. manufacture.*
+- **Emotional Spine:** Desire → Guilt → Identification → Repulsion → Institutionalization.
+- **Modular Ports:** Each layer can be reskinned to fit genre:
+  - Pastoral → Scientific → Corporate → Political → Spiritual → Domestic, etc.
+- **Invariant Rule:** Every revelation must *fulfill and negate* an earlier promise.
+
+---
+
+SUGGESTED VARIABLE NODES (for customization)
+
+| Node | Function | Questions to Reconfigure |
+|------|-----------|--------------------------|
+| A. Protagonist | Carrier of conscience or memory | What value do they unconsciously protect? |
+| B. Invader | Catalyst / mirror / teacher | What alternative system do they represent? |
+| C. System | Contextual authority (family, state, lab, church, etc.) | What defines “normal” here? |
+| D. Wound | Latent contradiction | What past failure primes the protagonist for seduction? |
+| E. Creation / Proof | Tangible manifestation of ideology | What materializes the theme? |
+| F. Mirror Figure | Returns consequence to sender | What form does self-recognition take? |
+| G. Frame | Aftermath or normalization | Who retells the story, and under whose authority? |
+
+---
+
+ABSTRACT FLOW SUMMARY:
+
+1. **Equilibrium (A within System).**  
+2. **Disruption (Invader enters).**  
+3. **Attraction → Partnership (shared discourse).**  
+4. **Confession / Exposure (Wound surfaces).**  
+5. **Initiation into Invader’s paradigm.**  
+6. **Revelation of creation or proof (fusion event).**  
+7. **Collapse / Mirror (consequence externalized).**  
+8. **Absorption (System re-codes event as progress).**  
+9. **Irony / Frame (Story retold as success).**
+
+---
+
+This template preserves the **dependency lattice** of the original:
+each act logically triggers the next through *emotional reciprocity* and *ethical inversion*,
+and it can be re-skinned into any milieu—corporate thriller, historical romance, space opera, domestic drama—without losing its structural integrity.
+
+Would you like a version of this skeleton expressed as a **diagrammatic flow schema** (e.g., act nodes with causal arrows), or as a **code-like outline** that could be programmatically instantiated?
